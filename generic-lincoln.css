@@ -1,0 +1,407 @@
+/* OEM Font Embed */
+@font-face {
+font-family: 'ProximaNovaLight';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Light-webfont.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Light-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Light-webfont.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Light-webfont.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Light-webfont.svg#ProximaNovaLight') format('svg');
+font-weight: normal;
+font-style: normal
+}
+
+@font-face {
+font-family: 'ProximaNovaRgRegular';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Reg-webfont.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Reg-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Reg-webfont.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Reg-webfont.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Reg-webfont.svg#ProximaNovaRgRegular') format('svg');
+font-weight: normal;
+font-style: normal
+}
+
+@font-face {
+font-family: 'ProximaNovaSBold';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Sbold-webfont.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Sbold-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Sbold-webfont.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Sbold-webfont.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Sbold-webfont.svg#ProximaNova-Sbold') format('svg');
+font-weight: normal;
+font-style: normal
+}
+
+@font-face {
+font-family: 'ProximaNovaRgBold';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Bold-webfont.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Bold-webfont.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Bold-webfont.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/ProximaNova/ProximaNova-Bold-webfont.svg#ProximaNovaRgBold') format('svg');
+font-weight: normal;
+font-style: normal
+}
+
+@font-face {
+font-family: 'lincolnmillerblight';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Light.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Light.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Light.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Light.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Light.svg#lincolnmillerblight') format('svg');
+font-weight: normal;
+font-style: normal
+}
+
+@font-face {
+font-family: 'lincolnmillerblightitalic';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-lightitalic-webfont.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-lightitalic-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-lightitalic-webfont.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-lightitalic-webfont.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-lightitalic-webfont.svg#lincolnmillerblightitalic') format('svg');
+font-weight: normal;
+font-style: normal
+}
+
+@font-face {
+font-family: 'lincolnmillerbroman';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Roman.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Roman.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Roman.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Roman.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Roman.svg#lincolnmillerbroman') format('svg');
+font-weight: normal;
+font-style: normal
+}
+
+@font-face {
+font-family: 'lincolnmillerbsemibold';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-semibold-webfont.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-semibold-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-semibold-webfont.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-semibold-webfont.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/lincolnmillerb-semibold-webfont.svg#lincolnmillerbsemibold') format('svg');
+font-weight: normal;
+font-style: normal
+}
+
+@font-face {
+font-family: 'lincolnmillerbblack';
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Black.eot');
+src: url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Black.eot?#iefix') format('embedded-opentype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Black.woff') format('woff'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Black.ttf') format('truetype'), url('https://www.lincoln.com/cmslibs/etc/designs/common/skin/lincoln/fonts/LincolnMiller/LincolnMillerBWGL-Black.svg#lincolnmillerbblack') format('svg');
+font-weight: normal;
+font-style: normal
+}
+/* OEM Font Embed */
+
+
+
+/* OEM Font */
+.acs-wrapper { 
+font-family: "ProximaNovaRgRegular", sans-serif;
+font-weight: 400;
+}
+/* OEM Font */
+
+
+
+/* Heading Tags */
+.acs-h1, .acs-h2, .acs-h3, .acs-h4, .acs-h5, .acs-h6 {
+font-family: "ProximaNovaLight", sans-serif;
+font-weight: 300;
+line-height: 1.2;
+text-transform: uppercase;
+letter-spacing: 2px
+}
+
+.acs-h1 {
+font-size: 2rem;
+}
+
+.acs-h2 {
+font-size: 1.8rem;
+}
+
+.acs-h3 {
+font-size: 1.6rem;
+}
+
+.acs-h4 {
+font-size: 1.4rem;
+}
+
+.acs-h5 {
+font-size: 1.2rem;
+}
+
+.acs-h6 {
+font-size: 1.1rem;
+}
+
+/* Larger than phablet */
+@media (min-width: 575px) {
+.acs-h1 {
+font-size: 2.5rem !important;
+}
+
+.acs-h2 {
+font-size: 2.2rem !important;
+}
+
+.acs-h3 {
+font-size: 1.8rem !important;
+}
+
+.acs-h4 {
+font-size: 1.6rem !important;
+}
+
+.acs-h5 {
+font-size: 1.4rem !important;
+}
+
+.acs-h6 {
+font-size: 1.2rem !important;
+}
+}
+/* Heading Tags */
+
+
+
+/* OEM Font Variables */
+.lincoln-brand-lt {
+font-family: "ProximaNovaLight" !important; 
+font-weight: 100 !important;
+}
+
+.lincoln-brand-rg {
+font-family: "ProximaNovaRgRegular" !important;
+font-weight: 400 !important;
+}
+
+.lincoln-brand-sb {
+font-family: "ProximaNovaSBold" !important;
+font-weight: 500 !important;
+}
+
+.lincoln-miller-brand-lt {
+font-family: "lincolnmillerblight" !important;
+font-weight: 100 !important;
+}
+
+.lincoln-miller-brand-lt-i {
+font-family: "lincolnmillerblightitalic" !important;
+font-weight: 100 !important;
+}
+
+.lincoln-miller-brand-rg {
+font-family: "lincolnmillerbroman" !important;
+font-weight: 400 !important;
+}
+
+.lincoln-miller-brand-sb {
+font-family: "lincolnmillerbsemibold" !important;
+font-weight: 500 !important;
+}
+
+.lincoln-miller-brand-blk {
+font-family: "lincolnmillerbblack" !important;
+font-weight: 900 !important;
+}
+
+.acs-bold {
+font-family: var(--bold-font);   
+font-weight: 700;
+}
+/* OEM Font Variables */
+
+
+
+/* Variables */
+.acs-wrapper {
+--accent: #3F4E55;
+--accent2: #F26147;
+--accent3: #324147;
+--accent4: #2A3338;
+--accent5: #314047;
+--black: #000000; 
+--white: #ffffff; 
+--gray: #EFEFEF; 
+--gray2: #979797;
+--gray3: #6b767b;
+--gray4: #F7F9F8;
+--gray5: #E0DFE0;
+--dark: #1e2526; 
+--bold-font: "ProximaNovaRgBold", sans-serif;
+}
+/* Variables */
+
+
+
+/* Text Colors */
+.acs-black {
+color: var(--black)
+}
+.acs-white {
+color: var(--white)
+}
+.acs-gray {
+color: var(--gray)
+}
+.acs-gray2 {
+color: var(--gray2)
+}
+.acs-gray3 {
+color: var(--gray3)
+}
+.acs-gray4 {
+color: var(--gray4)
+}
+.acs-gray5 {
+color: var(--gray5)
+}
+.acs-dark {
+color: var(--dark)
+}
+/* Text Colors */
+
+
+
+/* Accent Colors */
+.acs-accent {
+color: var(--accent)
+}
+.acs-accent2 {
+color: var(--accent2)
+}
+.acs-accent3 {
+color: var(--accent3)
+}
+.acs-accent4 {
+color: var(--accent4)
+}
+.acs-accent5 {
+color: var(--accent5)
+}
+/* Accent Colors */
+
+
+
+/* BG Colors */
+.acs-bg-accent {
+--acs-bg-opacity: 1;
+background-color: var(--accent);
+background-color: rgba(63,78,85, var(--acs-bg-opacity))
+}
+.acs-bg-accent2 {
+--acs-bg-opacity: 1;
+background-color: var(--accent2);
+background-color: rgba(242,97,71, var(--acs-bg-opacity))
+}
+.acs-bg-accent3 {
+--acs-bg-opacity: 1;
+background-color: var(--accent3);
+background-color: rgba(50,65,71, var(--acs-bg-opacity))
+}
+.acs-bg-accent4 {
+--acs-bg-opacity: 1;
+background-color: var(--accent4);
+background-color: rgba(42,51,56, var(--acs-bg-opacity))
+}
+.acs-bg-accent5 {
+--acs-bg-opacity: 1;
+background-color: var(--accent5);
+background-color: rgba(49,64,71, var(--acs-bg-opacity))
+}
+.acs-bg-gray {
+--acs-bg-opacity: 1;
+background-color: var(--gray);
+background-color: rgba(239,239,239, var(--acs-bg-opacity))
+}
+.acs-bg-gray2 {
+--acs-bg-opacity: 1;
+background-color: var(--gray2);
+background-color: rgba(151,151,151, var(--acs-bg-opacity))
+}
+.acs-bg-gray3 {
+--acs-bg-opacity: 1;
+background-color: var(--gray3);
+background-color: rgba(107,118,123, var(--acs-bg-opacity))
+}
+.acs-bg-gray4 {
+--acs-bg-opacity: 1;
+background-color: var(--gray4);
+background-color: rgba(247,249,248, var(--acs-bg-opacity))
+}
+.acs-bg-gray5 {
+--acs-bg-opacity: 1;
+background-color: var(--gray5);
+background-color: rgba(224,223,224, var(--acs-bg-opacity))
+}
+.acs-bg-dark {
+--acs-bg-opacity: 1;
+background-color: var(--dark);
+background-color: rgba(30,37,38, var(--acs-bg-opacity))
+}
+/* BG Colors */
+
+
+
+/* Plain Link Accents */
+.acs-link-accent, .acs-link-accent2 {
+text-decoration: none;
+text-transform: uppercase;
+letter-spacing: 1px;
+padding-bottom: .1rem;
+border-bottom: 2px solid var(--accent2);
+font-family: "ProximaNovaSBold" !important;
+font-weight: 500 !important;
+}
+.acs-link-accent {
+color: var(--accent) !important;
+}
+.acs-link-accent2 {
+color: var(--white) !important;
+}
+/* Plain Link Accents */
+
+
+/* Link Accent Icon */
+.asc-link-accent-icon {
+display: inline-flex;
+-moz-osx-font-smoothing: grayscale;
+position: relative;
+padding: 0rem 1rem 0rem 0rem
+}
+.asc-link-accent-icon::after {
+font-family: 'Material Icons';
+content: "\e5e1";
+color: inherit !important; 
+top: 0%;
+right: -1.5%;
+overflow: hidden;
+position: absolute;
+}
+/* Link Accent Icon */
+
+
+/* BUTTONS: START */
+/* Button 1 */
+.acs-button {
+background-color: var(--accent);
+display: inline-block;
+text-align: center;
+color: var(--white);
+text-decoration: none !important;
+box-shadow: inset 0 -2px 0 0 var(--accent2);
+padding: 15px 20px;
+line-height: 1.25;
+text-transform: uppercase;
+font-size: 1rem;
+letter-spacing: 2px;
+min-width: 270px;
+transition: all 0.3s ease-in-out 0s;
+}
+.acs-button:hover {
+box-shadow: inset 0 -4px 0 0 var(--accent2);
+}
+
+
+/* Button 2 */
+.acs-button2 {
+background-color: var(--gray);
+display: inline-block;
+text-align: center;
+color: var(--accent3);
+text-decoration: none !important;
+box-shadow: inset 0 -2px 0 0 var(--accent2);
+padding: 15px 20px;
+line-height: 1.25;
+text-transform: uppercase;
+font-size: 1rem;
+letter-spacing: 2px;
+min-width: 270px;
+transition: all 0.3s ease-in-out 0s;
+}
+.acs-button2:hover {
+box-shadow: inset 0 -4px 0 0 var(--accent2);
+}
+/* BUTTONS: END */
