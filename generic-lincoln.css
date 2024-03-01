@@ -75,7 +75,7 @@ font-style: normal
 
 
 /* OEM Font */
-.acs-wrapper { 
+.acs-wrapper, .acs-oem-brand { 
 font-family: "ProximaNovaRgRegular", sans-serif;
 font-weight: 400;
 }
@@ -196,7 +196,7 @@ font-weight: 700;
 
 
 /* Variables */
-.acs-wrapper {
+.acs-wrapper, .acs-oem-brand {
 --accent: #3F4E55;
 --accent2: #F26147;
 --accent3: #324147;
